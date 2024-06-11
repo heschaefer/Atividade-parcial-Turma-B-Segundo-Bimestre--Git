@@ -38,7 +38,4 @@ public class Main {
             }
         }
     }
-}acessar
-AdicionarPessoa
-acessar
-System
+}
